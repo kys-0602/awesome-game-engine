@@ -66,3 +66,15 @@ A curated collection of game engines, frameworks, and libraries for various prog
 
 
 </details>
+
+### Python
+
+<details>
+
+<summary>Open & Close</summary>
+
+|User|Repository|
+|:-----|:-----|
+|panda3d|[panda3d](https://github.com/panda3d/panda3d "panda3d")|
+  
+</details>
