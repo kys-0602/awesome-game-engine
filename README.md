@@ -39,6 +39,18 @@ A curated collection of game engines, frameworks, and libraries for various prog
 
 </details>
 
+### Go
+
+<details>
+
+<summary>Open & Close</summary>
+
+|User|Repository|
+|:-----|:-----|
+|oakmound|[oak](https://github.com/oakmound/oak "oak")|
+  
+</details>
+
 ### Lua
 
 <details>
