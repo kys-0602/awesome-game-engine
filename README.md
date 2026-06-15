@@ -21,6 +21,7 @@ A curated collection of game engines, frameworks, and libraries for various prog
 |enginmanap|[limonEngine](https://github.com/enginmanap/limonEngine "limonEngine")|
 |godlikepanos|[anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine "anki-3d-engine")|
 |Siv3D|[OpenSiv3D](https://github.com/Siv3D/OpenSiv3D "OpenSiv3D")|
+|Takumi Yamada|[DxLib](https://dxlib.xsrv.jp/ "DxLib")|
 
 
 
