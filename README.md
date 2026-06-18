@@ -22,6 +22,7 @@ A curated collection of game engines, frameworks, and libraries for various prog
 |godlikepanos|[anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine "anki-3d-engine")|
 |Siv3D|[OpenSiv3D](https://github.com/Siv3D/OpenSiv3D "OpenSiv3D")|
 |Takumi Yamada|[DxLib](https://dxlib.xsrv.jp/ "DxLib")|
+|u3d-community|[U3D](https://github.com/u3d-community/U3D "U3D")|
 
 
 
