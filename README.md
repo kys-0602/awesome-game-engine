@@ -64,6 +64,7 @@ A curated collection of game engines, frameworks, and libraries for various prog
 |Razakhel|[RaZ](https://github.com/Razakhel/RaZ "RaZ")|
 |groverburger|[g3d](https://github.com/groverburger/g3d "g3d")|
 |3dreamengine|[3DreamEngine](https://github.com/3dreamengine/3DreamEngine "3DreamEngine")|
+|love2d|[love](https://github.com/love2d/love "love")|
 
 
 </details>
